@@ -40,7 +40,7 @@ function Header({ quantidadeCarrinho, abrirCarrinho }) {
             href="#perfumes"
             onClick={fecharMenu}
           >
-            Perfumes
+            Luminárias
           </a>
 
           <a
