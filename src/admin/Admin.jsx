@@ -690,7 +690,7 @@ async function excluirProduto(produto) {
                 name="categoria"
                 value={form.categoria}
                 onChange={alterarCampo}
-                placeholder="Feminino, Masculino..."
+                placeholder="Pequeno, Grande..."
               />
 
 <label>
