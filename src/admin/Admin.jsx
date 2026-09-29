@@ -631,7 +631,7 @@ async function excluirProduto(produto) {
                 name="nome"
                 value={form.nome}
                 onChange={alterarCampo}
-                placeholder="Nome do perfume"
+                placeholder="Nome do produto"
                 required
               />
 
