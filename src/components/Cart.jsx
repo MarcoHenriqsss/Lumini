@@ -24,7 +24,7 @@ function Cart({
     const numeroWhatsApp = "5562993265596";
 
     let mensagem =
-      "Olá! Gostaria de fazer um pedido na Scond Collection.\n\n";
+      "Olá! Gostaria de fazer um pedido na Arte Lumini.\n\n";
 
     carrinho.forEach((item) => {
       const subtotal =

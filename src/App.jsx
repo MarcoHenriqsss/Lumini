@@ -277,12 +277,12 @@ function App() {
             </span>
 
             <h2>
-              Encontre sua fragrância
+              Encontre sua luminária perfeita
             </h2>
 
             <p>
-              Perfumes selecionados para
-              diferentes estilos e momentos.
+              luminárias artesanais que transformam momentos 
+              em memórias.
             </p>
 
           </div>
@@ -327,7 +327,7 @@ function App() {
 
               <input
                 type="text"
-                placeholder="Buscar perfume..."
+                placeholder="Buscar luminária..."
                 value={busca}
                 onChange={(e) =>
                   setBusca(e.target.value)
@@ -371,7 +371,7 @@ function App() {
             <div className="no-products">
 
               <h3>
-                Nenhum perfume encontrado.
+                Nenhuma luminária encontrada.
               </h3>
 
               <p>
@@ -409,28 +409,29 @@ function App() {
             <div className="about-content">
 
               <span>
-                SCOND COLLECTION
+                Arte Lumini
               </span>
 
               <h2>
-                Fragrâncias escolhidas
+                Luminárias que inovam 
                 <br />
-                para você.
+                e encantam.
               </h2>
 
               <p>
-                Na Scond Collection você
-                encontra perfumes selecionados
+                Na Arte Lumini você
+                encontra luminárias artesanais
                 para realçar sua personalidade
                 e tornar cada momento ainda
                 mais especial.
               </p>
 
               <p>
-                Trabalhamos com fragrâncias
-                Moments Paris, buscando sempre
-                oferecer qualidade, variedade e
-                uma experiência especial de compra.
+                Trabalhamos com luminárias,
+                buscando sempre oferecer
+                qualidade, variedade e
+                uma experiência especial para iluminar seu ambiente.
+                .
               </p>
 
             </div>
@@ -451,21 +452,21 @@ function App() {
         <div className="footer-brand">
 
           <strong>
-            SCOND COLLECTION
+            ARTE LUMINI
           </strong>
 
           <span>
-            Perfumes que deixam sua marca.
+            Luminárias que inovam e encantam.
           </span>
 
 
           <a
-            href="https://www.instagram.com/_sco.nd_/"
+            href="https://www.instagram.com/arte.lumini/"
             target="_blank"
             rel="noopener noreferrer"
             className="instagram-link"
           >
-            Instagram · @_sco.nd_
+            Instagram · @arte.lumini
           </a>
 
 
@@ -474,11 +475,11 @@ function App() {
           ================================= */}
 
           <a
-            href="https://wa.me/62993265596"
+            href="https://wa.me/5522997527367"
             target="_blank"
             rel="noopener noreferrer"
             className="whatsapp-float"
-            aria-label="Falar com a Scond Collection pelo WhatsApp"
+            aria-label="Falar com a Arte Lumini pelo WhatsApp"
           >
 
             <svg
@@ -506,7 +507,7 @@ function App() {
         <p>
           © {new Date().getFullYear()}
           {" "}
-          Scond Collection.
+          Arte Lumini.
           Todos os direitos reservados.
         </p>
 

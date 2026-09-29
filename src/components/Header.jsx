@@ -18,7 +18,7 @@ function Header({ quantidadeCarrinho, abrirCarrinho }) {
         >
           <img
             src="/logo.jpeg"
-            alt="Scond Collection"
+            alt="Arte Lumini"
           />
         </a>
 
@@ -51,7 +51,7 @@ function Header({ quantidadeCarrinho, abrirCarrinho }) {
           </a>
 
           <a
-            href="https://www.instagram.com/_sco.nd_/"
+            href="https://www.instagram.com/arte.lumini/"
             target="_blank"
             rel="noopener noreferrer"
             onClick={fecharMenu}

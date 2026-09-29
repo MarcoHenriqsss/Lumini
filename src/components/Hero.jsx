@@ -6,18 +6,17 @@ function Hero() {
       <div className="hero-content">
 
         <span className="hero-small">
-          SCOND COLLECTION
+          Arte Lumini
         </span>
 
         <h1>
-          Perfumes que
+          Luminárias artesanais que
           <br />
-          deixam sua marca.
+          transformam.
         </h1>
 
         <p>
-          Fragrâncias selecionadas para transformar
-          momentos em memórias.
+          Descubra a magia da iluminação artesanal com nossas luminárias
         </p>
 
         <a href="#perfumes" className="hero-button">

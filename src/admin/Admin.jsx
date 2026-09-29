@@ -363,7 +363,7 @@ async function excluirProduto(produto) {
         <div className="admin-login-box">
 
           <span className="admin-login-small">
-            SCOND COLLECTION
+            Arte Lumini
           </span>
 
           <h1>
@@ -434,7 +434,7 @@ async function excluirProduto(produto) {
 
         <div>
           <span>
-            SCOND COLLECTION
+            Arte Lumini
           </span>
 
           <h1>
@@ -599,7 +599,7 @@ async function excluirProduto(produto) {
 
               <div>
                 <span>
-                  SCOND COLLECTION
+                  ARTE LUMINI
                 </span>
 
                 <h2>

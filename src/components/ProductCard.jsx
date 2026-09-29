@@ -10,11 +10,11 @@ function ProductCard({
 
   function consultarWhatsApp() {
     const mensagem = encodeURIComponent(
-      `Olá! Gostaria de consultar o preço e a disponibilidade do perfume ${produto.nome}.`
+      `Olá! Gostaria de consultar o preço e a disponibilidade do produto ${produto.nome}.`
     );
 
     window.open(
-      `https://wa.me/5562993265596?text=${mensagem}`,
+      `https://wa.me/5522997527367?text=${mensagem}`,
       "_blank"
     );
   }
