@@ -116,10 +116,14 @@ function Cart({
                   key={item.id}
                 >
 
-                  <img
-                    src={`/Perfumes/Imagens/${item.imagem}`}
-                    alt={item.nome}
-                  />
+<img
+  src={
+    item.imagem?.startsWith("http")
+      ? item.imagem
+      : `/Perfumes/Imagens/${item.imagem}`
+  }
+  alt={item.nome}
+/>
 
                   <div className="cart-item-info">
 
