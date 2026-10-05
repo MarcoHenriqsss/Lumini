@@ -19,7 +19,7 @@ function Hero() {
           Descubra a magia da iluminação artesanal com nossas luminárias
         </p>
 
-        <a href="#perfumes" className="hero-button">
+        <a href="luminarias" className="hero-button">
           CONHECER COLEÇÃO
         </a>
 
